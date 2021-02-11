@@ -1,4 +1,4 @@
-### Hi there, I am a programmer 👋
+### Hi there, I am a programmer :sparkles:
 
 <!--
 **thaisaacastro/thaisaacastro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
