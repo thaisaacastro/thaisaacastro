@@ -11,8 +11,8 @@
 
 Welcome to my profile!<br>
 Have my studies and projects on hand, if you want to send feedback or want help, just call me on social networks <br>
-Ask me any dev's. <a href="https://github.com/Anteste/Anteste/issues/new"><b>here</b></a><br>
-or <a href="mailto:contact@anteste.yo.fr"><b>email</b></a> me
+Ask me any dev's. <a href="https://github.com/thaisascastro/"><b>here</b></a><br>
+or <a href="thaisascastro@gmail.com"><b>email</b></a> me
 
 <i>Enjoy the code!</i> 😊
 
