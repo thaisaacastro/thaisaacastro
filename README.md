@@ -1,6 +1,7 @@
 <div align="center">
 <h2>Hello, developers!</h2>
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Fshots%2F3870893-Hello-World-JS-Day&psig=AOvVaw2XUAQTIledqn8-LWjomGJD&ust=1617116046869000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMjm9e7g1e8CFQAAAAAdAAAAABAD" alt="developer">
+<img src="![image](https://user-images.githubusercontent.com/58372020/112856347-135fe080-9086-11eb-88a3-ed72e8d04f9e.png)
+" alt="developer">
 </div>
 <div align="center" width="50">
 
