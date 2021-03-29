@@ -1,6 +1,6 @@
 <div align="center">
 <h2>Hello, developers!</h2>
-<img src="![image](https://user-images.githubusercontent.com/58372020/112856347-135fe080-9086-11eb-88a3-ed72e8d04f9e.png)
+<img src="https://user-images.githubusercontent.com/58372020/112856347-135fe080-9086-11eb-88a3-ed72e8d04f9e.png)
 " alt="developer">
 </div>
 <div align="center" width="50">
