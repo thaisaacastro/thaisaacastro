@@ -1,11 +1,9 @@
 <div align="center">
-<h2>Hello, developers! 
-  width="30px"></h2>
+<h2>Hello, developers!></h2>
 </div>
 <div align="center" width="50">
 
-<img src="https://i.imgur.com/8MBYGOt.gif" alt="Welcome!" width="300"/>
-
+<br/>
 </div>
 
 <div align="center">
