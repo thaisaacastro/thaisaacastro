@@ -12,7 +12,7 @@
 Welcome to my profile!<br>
 Have my studies and projects on hand, if you want to send feedback or want help, just call me on social networks <br>
 Ask me any dev's. <a href="https://github.com/thaisascastro/"><b>here</b></a><br>
-or <a href="https://mail.google.com/mail/u/0/#inbox"><b>email</b></a> me
+or <a href="thaisascastro@gmail.com"><b>email</b></a> me
 
 <i>Enjoy the code!</i> 😊
 
